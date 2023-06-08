@@ -57,3 +57,5 @@ kubectl -n namespace_name get secret secret_name  -o jsonpath="{.data.password}"
 
 # Reto: instalar kubedoom con Argocd
 -->https://github.com/storax/kubedoom
+
+(para poder probarlo despues necesitan tener instalado tigervnc (vncviewer))
